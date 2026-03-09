@@ -1,21 +1,36 @@
-MIT License
+MIT License with Citation Requirement
 
-Copyright (c) 2026 steveQIU686
+Copyright (c) 2026 Jinyi Qiu and Aydin Aysu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, and redistribute the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Attribution and Citation Requirement:
+   Any use of this Software in academic research, publications, or derivative
+   works must include a citation to the following paper:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+   Jinyi Qiu et al., "NTT-PEEL: Bit Shift Side-Channel in FALCON’s Number Theoretic Transform,"
+   IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), 2026.
+
+   The citation must be included in any resulting publications, presentations,
+   or publicly distributed materials that use this Software or results derived from it.
+
+2. Preservation of License:
+   The above copyright notice, this permission notice, and the citation requirement
+   shall be included in all copies or substantial portions of the Software.
+
+DISCLAIMER AND LIMITATION OF LIABILITY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT.
+
+THE AUTHORS MAKE NO GUARANTEE OF ANY KIND REGARDING THE COMPLETENESS,
+RELIABILITY, SECURITY, OR PERFORMANCE OF THIS SOFTWARE OR ITS OUTPUT.
+
+USE OF THIS SOFTWARE IS AT YOUR OWN RISK. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGE, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+THIS SOFTWARE IS PROVIDED FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY.
